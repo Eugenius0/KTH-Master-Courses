@@ -6,6 +6,7 @@
 - [ID2209 - Distributed Artificial Intelligence and Intelligent Agents](https://github.com/Eugenius0/Distributed-Artificial-Intelligence-and-Intelligent-Agents-ID2209)
 - [ID2203 - Distributed Systems, Advanced Course](https://github.com/Eugenius0/Distributed-Systems-Advanced-Course-ID2203)
 - [DH2642 - Interaction-Programming-and-the-Dynamic-Web](https://github.com/Eugenius0/Interaction-Programming-and-the-Dynamic-Web-DH2642)
+- [ID2221 - Data-Intensive Computing](https://github.com/Eugenius0/Data-Intensive-Computing-ID2221)
 
 ## [ID2201 - Distributed Systems, Basic Course](https://github.com/Eugenius0/Distributed-Systems-Basic-Course-ID2201)
 
