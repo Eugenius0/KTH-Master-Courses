@@ -7,6 +7,7 @@
 - [ID2203 - Distributed Systems, Advanced Course](https://github.com/Eugenius0/Distributed-Systems-Advanced-Course-ID2203)
 - [DH2642 - Interaction-Programming-and-the-Dynamic-Web](https://github.com/Eugenius0/Interaction-Programming-and-the-Dynamic-Web-DH2642)
 - [ID2221 - Data-Intensive Computing](https://github.com/Eugenius0/Data-Intensive-Computing-ID2221)
+- [ID2214 - Programming for Data Science](https://github.com/Eugenius0/Programming-for-Data-Science-ID2214)
 
 ## [ID2201 - Distributed Systems, Basic Course](https://github.com/Eugenius0/Distributed-Systems-Basic-Course-ID2201)
 
@@ -132,4 +133,26 @@ More specifically after the course is completed the student will be able to
 - use various computational engines to design and implements nontrivial analytics on massive data
 - explain the different models for scheduling and resource allocation computational tasks on large computing clusters
 - elaborate on the tradeoffs when designing efficient algorithms for processing massive data in a distributed computing setting.
+
+## [ID2214 - Programming for Data Science](https://github.com/Eugenius0/Programming-for-Data-Science-ID2214)
+
+### Course contents
+
+- Syntax and semantics for programming languages that are particularly suited for data science, e.g., Python.
+- Routines to import, combine, convert and make selection of data.
+- Algorithms for handling of missing values, discretisation and dimensionality reduction.
+- Algorithms for supervised machine learning, e.g., naïve Bayes, decision trees, random forests.
+- Algorithms for unsupervised machine learning, e.g., k-means clustering.
+- Libraries for data analysis.
+- Evaluation methods and performance metrics.
+- Visualisation and analysis of results of data analysis.
+
+### Intended learning outcomes
+
+Having passed the course, the student should be able to
+
+- account for and discuss the application of i) technologies to convert data to an appropriate format for data analysis ii) algorithms to analyse data through supervised and unsupervised machine learning as well as iii) technologies and performance metrics for evaluation of data analysis results
+- implement and apply i) technologies to convert data to an appropriate format for data analysis ii) algorithms for supervised and unsupervised machine learning as well as iii) technologies and performance metrics for evaluation of data analysis results.
+
+
 
