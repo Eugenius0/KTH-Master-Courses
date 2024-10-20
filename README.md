@@ -5,7 +5,7 @@
 - [ID2207 - Modern Methods in Software Engineering](https://github.com/Eugenius0/Modern-Methods-in-Software-Engineering-ID2207)
 - [ID2209 - Distributed Artificial Intelligence and Intelligent Agents](https://github.com/Eugenius0/Distributed-Artificial-Intelligence-and-Intelligent-Agents-ID2209)
 - [ID2203 - Distributed Systems, Advanced Course](https://github.com/Eugenius0/Distributed-Systems-Advanced-Course-ID2203)
-- [DH2642 - Interaction-Programming-and-the-Dynamic-Web](https://github.com/Eugenius0/Interaction-Programming-and-the-Dynamic-Web-DH2642)
+- [DH2642 - Interaction Programming and the Dynamic Web](https://github.com/Eugenius0/Interaction-Programming-and-the-Dynamic-Web-DH2642)
 - [ID2221 - Data-Intensive Computing](https://github.com/Eugenius0/Data-Intensive-Computing-ID2221)
 - [ID2214 - Programming for Data Science](https://github.com/Eugenius0/Programming-for-Data-Science-ID2214)
 - [ID2223 - Scalable Machine Learning and Deep Learning](https://github.com/Eugenius0/Scalable-Machine-Learning-and-Deep-Learning-ID2223)
