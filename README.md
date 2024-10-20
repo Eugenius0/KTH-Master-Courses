@@ -8,7 +8,7 @@
 - [DH2642 - Interaction-Programming-and-the-Dynamic-Web](https://github.com/Eugenius0/Interaction-Programming-and-the-Dynamic-Web-DH2642)
 - [ID2221 - Data-Intensive Computing](https://github.com/Eugenius0/Data-Intensive-Computing-ID2221)
 - [ID2214 - Programming for Data Science](https://github.com/Eugenius0/Programming-for-Data-Science-ID2214)
-- [ID2223 - Scalable-Machine-Learning-and-Deep-Learning](https://github.com/Eugenius0/Scalable-Machine-Learning-and-Deep-Learning-ID2223)
+- [ID2223 - Scalable Machine Learning and Deep Learning](https://github.com/Eugenius0/Scalable-Machine-Learning-and-Deep-Learning-ID2223)
 
 ## [ID2201 - Distributed Systems, Basic Course](https://github.com/Eugenius0/Distributed-Systems-Basic-Course-ID2201)
 
@@ -155,7 +155,7 @@ Having passed the course, the student should be able to
 - account for and discuss the application of i) technologies to convert data to an appropriate format for data analysis ii) algorithms to analyse data through supervised and unsupervised machine learning as well as iii) technologies and performance metrics for evaluation of data analysis results
 - implement and apply i) technologies to convert data to an appropriate format for data analysis ii) algorithms for supervised and unsupervised machine learning as well as iii) technologies and performance metrics for evaluation of data analysis results.
 
-## [ID2223 - Scalable-Machine-Learning-and-Deep-Learning](https://github.com/Eugenius0/Scalable-Machine-Learning-and-Deep-Learning-ID2223)
+## [ID2223 - Scalable Machine Learning and Deep Learning](https://github.com/Eugenius0/Scalable-Machine-Learning-and-Deep-Learning-ID2223)
 
 ### Course contents
 
