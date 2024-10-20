@@ -88,7 +88,7 @@ More specifically after the course is completed the student will:
 - Master basic algorithms for failure detection, leader elections, broadcast and multicast, basic shared memory in distributed systems, agreement protocols, and group communication.
 - Practice in design and implementation of selected distributed algorithms in middleware designed for group communication.
 
-## [DH2642 - Interaction-Programming-and-the-Dynamic-Web](https://github.com/Eugenius0/Interaction-Programming-and-the-Dynamic-Web-DH2642)
+## [DH2642 - Interaction Programming and the Dynamic Web](https://github.com/Eugenius0/Interaction-Programming-and-the-Dynamic-Web-DH2642)
 
 ### Course contents
 JavaScript for interaction programming, callbacks, synchronous and asynchronous code, functional programming.
